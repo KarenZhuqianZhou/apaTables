@@ -1,0 +1,232 @@
+{\rtf1\ansi\deff0 {\fonttbl {\f0 Times New Roman;}}
+{\pard Table 2 \par}
+{\pard  \par}
+{\pard\i Fixed-Effects ANOVA results using scores as the criterion
+\par}
+{\pard  \par}
+{
+\trowd \trgaph100
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx1368 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx2664 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx3355 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx4651 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx6206 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx7070 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx8438 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{Predictor}\cell
+\pard\sa0\sb0\intbl\qc{{Sum\par}{of\par}Squares}\cell
+\pard\sa0\sb0\intbl\qc{{\i df}}\cell
+\pard\sa0\sb0\intbl\qc{{Mean\par}Square}\cell
+\pard\sa0\sb0\intbl\qc{{\i F}}\cell
+\pard\sa0\sb0\intbl\qc{{\i p}}\cell
+\pard\sa0\sb0\intbl\qc{{\sub partial \nosupersub \u0951\ \super 2\nosupersub}}\cell
+\pard\sa0\sb0\intbl\qc{{\sub partial \nosupersub \u0951\ \super 2 \nosupersub \par 90% CI\par[LL, UL]}}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx1368 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx2664 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx3355 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx4651 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx6206 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx7070 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx8438 
+\clbrdrt\brdrw15\brdrs
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{(Intercept)}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{933.66}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{933.66}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{2921.49}\cell
+\pard\sa0\sb0\intbl\qc{.000}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx6206 
+\clvertalc\cellx7070 
+\clvertalc\cellx8438 
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{conditions}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{2.08}\cell
+\pard\sa0\sb0\intbl\qc{2}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{1.04}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{3.25}\cell
+\pard\sa0\sb0\intbl\qc{.041}\cell
+\pard\sa0\sb0\intbl\qc{.04}\cell
+\pard\sa0\sb0\intbl\qc{[.00, .10]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx6206 
+\clvertalc\cellx7070 
+\clvertalc\cellx8438 
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{gender_fac}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{4.05}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{4.05}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{12.68}\cell
+\pard\sa0\sb0\intbl\qc{.000}\cell
+\pard\sa0\sb0\intbl\qc{.08}\cell
+\pard\sa0\sb0\intbl\qc{[.02, .15]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx6206 
+\clvertalc\cellx7070 
+\clvertalc\cellx8438 
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{z_effort}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{0.71}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{0.71}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{2.22}\cell
+\pard\sa0\sb0\intbl\qc{.138}\cell
+\pard\sa0\sb0\intbl\qc{.01}\cell
+\pard\sa0\sb0\intbl\qc{[.00, .06]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx6206 
+\clvertalc\cellx7070 
+\clvertalc\cellx8438 
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{z_grade}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{1.38}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{1.38}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{4.31}\cell
+\pard\sa0\sb0\intbl\qc{.040}\cell
+\pard\sa0\sb0\intbl\qc{.03}\cell
+\pard\sa0\sb0\intbl\qc{[.00, .08]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx6206 
+\clvertalc\cellx7070 
+\clvertalc\cellx8438 
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{z_words}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{3.01}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{3.01}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{9.40}\cell
+\pard\sa0\sb0\intbl\qc{.003}\cell
+\pard\sa0\sb0\intbl\qc{.06}\cell
+\pard\sa0\sb0\intbl\qc{[.01, .13]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx6206 
+\clvertalc\cellx7070 
+\clvertalc\cellx8438 
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{z_sentences}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{2.07}\cell
+\pard\sa0\sb0\intbl\qc{1}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{2.07}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{6.47}\cell
+\pard\sa0\sb0\intbl\qc{.012}\cell
+\pard\sa0\sb0\intbl\qc{.04}\cell
+\pard\sa0\sb0\intbl\qc{[.00, .10]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clvertalc\cellx1368 
+\clvertalc\cellx2664 
+\clvertalc\cellx3355 
+\clvertalc\cellx4651 
+\clvertalc\cellx6206 
+\clvertalc\cellx7070 
+\clvertalc\cellx8438 
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{conditions x gender_fac}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{1.23}\cell
+\pard\sa0\sb0\intbl\qc{2}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{0.61}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{1.92}\cell
+\pard\sa0\sb0\intbl\qc{.150}\cell
+\pard\sa0\sb0\intbl\qc{.02}\cell
+\pard\sa0\sb0\intbl\qc{[.00, .07]}\cell
+\row
+}
+{
+\trowd \trgaph100
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx1368 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx2664 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx3355 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx4651 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx6206 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx7070 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx8438 
+\clbrdrb\brdrw15\brdrs
+\clvertalc\cellx9806 
+\pard\sa0\sb0\intbl\qr{Error}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{48.90}\cell
+\pard\sa0\sb0\intbl\qc{153}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx778{0.32}\cell
+\pard\sa0\sb0\intbl\tqdec\tldot\tx622{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\pard\sa0\sb0\intbl\qc{}\cell
+\row
+}
+{\pard \par}{\pard{\i Note.} LL and UL represent the lower-limit and upper-limit of the partial \u0951\ \super 2\nosupersub  confidence interval, respectively.\par}
+}
